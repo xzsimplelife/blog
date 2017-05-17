@@ -1,0 +1,26 @@
+
+.bar a {
+	text-align: center;
+	text-decoration: none;
+	color: #D0D5D8;
+	font-size: 2em;
+	padding:0px 10px;
+}
+.classify a{
+	text-align: center;
+	text-decoration: none;
+}
+a:hover{
+	color: #000000;
+}
+ul { 
+
+	list-style-type: none;
+	list
+}
+li {
+	list-style:none;
+}
+body {
+	background-color: #f2f2f2;
+}
