@@ -1,0 +1,43 @@
+.left{
+
+	background-color: white;
+	width: 14%;
+	position: fixed;
+	float: left;
+}
+.center{
+	top: 0;
+	padding: 0;
+	margin: 0;
+	background-color: white;
+	width: 85%;
+	float: right;
+	text-align: center;
+	align-content: center;
+}
+.right{
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: #f2f2f2;
+	width: 15%;
+	float: right;
+}
+.list{
+	/*text-align: left*/
+}
+.blog_title{
+	width: 100%;
+}
+
+.nickname{
+	font-size: 3em;
+	font-family: "blackadder itc";
+	color: #D0D5D8;
+}
+.nickname:hover{
+	color: #000000;
+}
+.home{
+	
+}
